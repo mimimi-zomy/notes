@@ -78,12 +78,12 @@
 #### Linuxディストリビューションの種類
   - ディストリビューションは1000種類以上あり、独自のコミュニティが開発している。Red Hat系とDebian系が主流。
 ##### Red Hat系
-    - Red Hat Enterprise Linux
-    - **CentOS** 本講座で使用する。無償で手に入り利用者も多く情報も豊富。
-    - Fedora
+- Red Hat Enterprise Linux
+- **CentOS** 本講座で使用する。無償で手に入り利用者も多く情報も豊富。
+- Fedora
 ##### Debian系
-    - Debian GNU/Linux
-    - Ubuntu
+- Debian GNU/Linux
+- Ubuntu
 #### まとめ
 - カーネルはOSの中核となるソフトウェア
 - ディストリビューションはカーネルに色々なソフトウェアを組み合わせて使いやすくしたもの
