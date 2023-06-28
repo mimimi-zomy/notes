@@ -1,4 +1,5 @@
 # [もう怖くないLinuxコマンド](https://www.udemy.com/course/unscared_linux/learn/lecture/16858760?components=slider_menu%2Cbuy_button%2Cdeal_badge%2Cdiscount_expiration%2Cprice_text%2Cincentives%2Cpurchase%2Credeem_coupon%2Cmoney_back_guarantee%2Cbase_purchase_section%2Cpurchase_tabs_context%2Clifetime_access_context%2Cavailable_coupons%2Cgift_this_course%2Cbuy_for_team#content)
+## Day1
 ### 0. コースについて
 - 最初Linuxに触れた当初はとても難しく感じた
 - が、背景にある哲学などの理論や仕組み、文化などを学ぶと、コマンドへの理解も深まり、ひいてはLinuxへの理解もとても深まった。
